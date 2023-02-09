@@ -1,0 +1,21 @@
+{
+  "name": "dark-leocode-theme",
+  "displayName": "dark-leocode-theme",
+  "description": "leocode theme!!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-leocode-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-leocode-theme-color-theme.json"
+      }
+    ]
+  }
+}
