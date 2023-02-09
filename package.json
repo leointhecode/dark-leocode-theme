@@ -8,13 +8,13 @@
     "type": "git",
     "url": "https://github.com/leointhecode/lionleo-dark-theme"
   },
-  "keywords": {
+  "keywords": [
     "theme",
     "dark-theme",
     "leointhecode",
-    "dark theme"
+    "dark theme",
     "Leonardo Espinosa"
-  },
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
